@@ -19,13 +19,13 @@ export const Projects = () => {
       title: "Connect 4",
       description: "AI Game Development",
       imgUrl: projImg1,
-      href: "https://github.com/ethanbriscoe25/AI-connect4",
+      href: "https://github.com/ethanbriscoe25/ai-connect4",
     },
     {
       title: "Flappy Bird",
       description: "AI Game Development",
       imgUrl: projImg2,
-      href: "https://github.com/ethanbriscoe25/AI-flappy-bird",
+      href: "https://github.com/ethanbriscoe25/ai-flappy-bird-v1.0",
     },
     {
       title: "Pocket Billiards",
@@ -37,7 +37,7 @@ export const Projects = () => {
       title: "Space Invaders",
       description: "Game Creation",
       imgUrl: projImg4,
-      href: "https://github.com/ethanbriscoe25/space-invadersv1.0",
+      href: "https://github.com/ethanbriscoe25/space-invaders-v1.0",
     },
     {
       title: "Duck Hunt",
@@ -58,7 +58,7 @@ export const Projects = () => {
       title: "Shoe Bot",
       description: "Machine Learning",
       imgUrl: projImg7,
-      href: "https://github.com/ethanbriscoe25/shoe-botv1.0",
+      href: "https://github.com/ethanbriscoe25/shoe-bot-v1.0",
     },
   ]
 
