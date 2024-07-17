@@ -19,37 +19,37 @@ export const Projects = () => {
       title: "Connect 4",
       description: "AI Game Development",
       imgUrl: projImg1,
-      href: "https://github.com/ethanlbriscoe/AI-connect4",
+      href: "https://github.com/ethanbriscoe25/AI-connect4",
     },
     {
       title: "Flappy Bird",
       description: "AI Game Development",
       imgUrl: projImg2,
-      href: "https://github.com/ethanlbriscoe/AI-flappy-bird",
+      href: "https://github.com/ethanbriscoe25/AI-flappy-bird",
     },
     {
       title: "Pocket Billiards",
       description: "Game Creation",
       imgUrl: projImg3,
-      href: "https://github.com/ethanlbriscoe/pocket-billiards",
+      href: "https://github.com/ethanbriscoe25/pocket-billiards",
     },
     {
       title: "Space Invaders",
       description: "Game Creation",
       imgUrl: projImg4,
-      href: "https://github.com/ethanlbriscoe/space-invadersv1.0",
+      href: "https://github.com/ethanbriscoe25/space-invadersv1.0",
     },
     {
       title: "Duck Hunt",
       description: "Game Creation",
       imgUrl: projImg5,
-      href: "https://github.com/ethanlbriscoe/duck-hunt-v1.0",
+      href: "https://github.com/ethanbriscoe25/duck-hunt-v1.0",
     },
     {
       title: "TETRIS",
       description: "Game Creation",
       imgUrl: projImg6,
-      href: "https://github.com/ethanlbriscoe/tetris-v1.0",
+      href: "https://github.com/ethanbriscoe25/tetris-v1.0",
     },
   ];
 
@@ -58,7 +58,7 @@ export const Projects = () => {
       title: "Shoe Bot",
       description: "Machine Learning",
       imgUrl: projImg7,
-      href: "https://github.com/ethanlbriscoe/shoe-botv1.0",
+      href: "https://github.com/ethanbriscoe25/shoe-botv1.0",
     },
   ]
 
